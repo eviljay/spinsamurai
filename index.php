@@ -1,13 +1,13 @@
 <html><head>
-    <link rel="canonical" href="https://www.casinorocket.com/">
-    <link rel="alternate" hreflang="en-au" href="https://www.casinorocket.com/">
+    <link rel="canonical" href="https://www.spinsamurai.com/">
+    <link rel="alternate" hreflang="en-au" href="https://www.spinsamurai30.com/en-au">
 <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.6.0">
     <meta name="google-site-verification" content="EUKFSkgS2vov_RESlCH7iNM82pq-4Mw530hhqIGK2CY">
 <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "SoftwareApplication",
-      "name": "Rocket casino no deposit bonus",
+      "name": "Spinsamurai 30",
       "operatingSystem": "ANDROID",
       "applicationCategory": "GameApplication",
       "aggregateRating": {
